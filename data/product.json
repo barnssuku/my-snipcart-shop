@@ -16,11 +16,10 @@
         "product_url": "/whitehoney"
     },
     {
-      "id": "BENNESEED",
-      "name": "White Benne Seed",
-      "image": "",
-      "description": "White benne seed for your medicinal use and for kitchen use.",
-      "product_url": "/benneseed"
-      
+        "id": "BENNESEED",
+        "name": "White Benne Seed",
+        "image": "/uploads/beniseed-farming.jpg",
+        "description": "White benne seed for your medicinal use and for kitchen use.",
+        "product_url": "/benneseed"
     }
 ]
